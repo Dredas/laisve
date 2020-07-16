@@ -1,0 +1,207 @@
+@font-face {
+  font-family: "Miso";
+  src: url("/fonts/miso-bold.woff2") format("woff2");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Laisve";
+  src: url("/fonts/Laisvas-sriftas.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.bg-laisve {
+  background-color: #e60060 !important;
+}
+
+.navbar-dark .navbar-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 0.85)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.navbar-dark .navbar-toggler:hover .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 221, 0, 0.85)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.navbar-dark .navbar-toggler {
+  border: 2px solid #fff;
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.app-header .nav-item .nav-link > .img-avatar {
+  height: 44px;
+  border: 2px solid #fff;
+}
+
+.guest {
+  font-family: "Miso";
+  background-color: #f60060;
+  font-size: 20px;
+}
+
+.guest a {
+  color: #fff;
+}
+
+.guest h1 {
+  font-family: "Laisve";
+  color: #fff;
+  font-size: 65px;
+}
+
+.guest .center-button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.guest .lp-button {
+  outline: none;
+  box-shadow: none;
+  position: relative;
+  color: #000;
+  margin-top: 20px;
+  background: none;
+}
+
+.guest .lp-button img {
+  position: absolute;
+  left: -115px;
+  bottom: 50%;
+  height: 60px;
+  opacity: 0;
+  transition: all 0.3s ease-in-out;
+}
+
+.guest .lp-button:hover img {
+  opacity: 1;
+}
+
+.guest .lp-button span {
+  position: relative;
+  color: #000;
+}
+
+.guest .lp-button:before {
+  width: calc(100% + 240px);
+  height: 70px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%) rotate(0);
+  content: "";
+  background: url(/images/button-background.svg) 50%/contain no-repeat;
+  transition: all 0.3s ease-in-out;
+}
+
+.guest .form-padding {
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+
+.guest .nav-tabs .nav-link.disabled {
+  color: #fff;
+}
+
+.zoom {
+  position: fixed;
+  bottom: 45px;
+  right: 24px;
+  height: 70px;
+}
+
+.zoom-fab {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  border-radius: 50%;
+  background-color: #e60060;
+  vertical-align: middle;
+  text-decoration: none;
+  text-align: center;
+  transition: 0.2s ease-out;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  color: #FFF;
+}
+
+.zoom-fab:hover {
+  background-color: #f60060;
+  box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.14), 0 1px 7px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -1px rgba(0, 0, 0, 0.2);
+}
+
+.zoom-fab i {
+  color: #fff;
+  font-weight: bold;
+}
+
+.zoom-btn-large {
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+}
+
+.zoom-btn-large i {
+  margin-top: 35%;
+}
+
+.zoom-btn-sm i {
+  margin-top: 30%;
+}
+
+.zoom-btn-person {
+  background-color: #F44336;
+}
+
+.zoom-btn-person:hover {
+  background-color: #e57373;
+}
+
+.zoom-btn-doc {
+  background-color: #ffeb3b;
+}
+
+.zoom-btn-doc:hover {
+  background-color: #fff176;
+}
+
+.zoom-menu {
+  position: absolute;
+  right: 70px;
+  left: auto;
+  top: 50%;
+  transform: translateY(-50%);
+  height: 100%;
+  width: 500px;
+  list-style: none;
+  text-align: right;
+}
+
+.zoom-menu li {
+  display: inline-block;
+  margin-right: 10px;
+  margin-top: 8px;
+}
+
+.scale-transition {
+  transition: transform 0.3s cubic-bezier(0.53, 0.01, 0.36, 1.63) !important;
+}
+
+.scale-transition.scale-out {
+  transform: scale(0);
+  transition: transform 0.2s !important;
+}
+
+.scale-transition.scale-in {
+  transform: scale(1);
+}
+

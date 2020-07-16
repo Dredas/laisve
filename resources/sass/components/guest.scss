@@ -1,0 +1,77 @@
+//Guest
+.guest {
+    font-family: 'Miso';
+    background-color: #f60060;
+    font-size: 20px;
+
+    a {
+        color: #fff
+    }
+
+    h1 {
+        font-family: 'Laisve';
+        color: #fff;
+        font-size: 65px;
+    }
+
+    .center-button {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .lp-button {
+        outline: none;
+        box-shadow: none;
+
+        position: relative;
+        color: #000;
+        margin-top: 20px;
+        background: none;
+
+        img {
+            position: absolute;
+            left: -115px;
+            bottom: 50%;
+            height: 60px;
+            opacity: 0;
+            transition: all .3s ease-in-out;
+        }
+
+        &:hover {
+            img {
+                opacity: 1;
+            }
+        }
+
+        span {
+            position: relative;
+            color: #000;
+        }
+
+        &:before {
+            width: calc(100% + 240px);
+            height: 70px;
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%,-50%) rotate(0);
+            content: "";
+            background: url(/images/button-background.svg) 50%/contain no-repeat;
+            transition: all .3s ease-in-out;
+        }
+    }
+
+
+    .form-padding {
+        padding-top: 40px;
+        padding-bottom: 30px;
+    }
+
+
+    //Steps
+    .nav-tabs .nav-link.disabled {
+        color: #fff;
+    }
+}

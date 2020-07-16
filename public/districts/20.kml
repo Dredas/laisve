@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="utf-8" ?>
+    <kml xmlns="http://www.opengis.net/kml/2.2">
+        <Document id="root_doc">
+            <StyleMap id="style-562">
+                <Pair>
+                    <key>normal</key>
+                    <styleUrl>#style-562-normal</styleUrl>
+                </Pair>
+                <Pair>
+                    <key>highlight</key>
+                    <styleUrl>#style-562-highlight</styleUrl>
+                </Pair>
+            </StyleMap>
+
+            <Style id="style-562-normal">
+                <LineStyle>
+                    <color>ffffffff</color>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>996000e6</color>
+                </PolyStyle>
+            </Style>
+            <Style id="style-562-highlight">
+                <LineStyle>
+                    <color>ffffffff</color>
+                    <width>5</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>996000e6</color>
+                </PolyStyle>
+            </Style>
+            
+            <StyleMap id="style-563">
+                <Pair>
+                    <key>normal</key>
+                    <styleUrl>#style-563-normal</styleUrl>
+                </Pair>
+                <Pair>
+                    <key>highlight</key>
+                    <styleUrl>#style-563-highlight</styleUrl>
+                </Pair>
+            </StyleMap>
+
+            <Style id="style-563-normal">
+                <LineStyle>
+                    <color>ffffffff</color>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>996000e6</color>
+                </PolyStyle>
+            </Style>
+            <Style id="style-563-highlight">
+                <LineStyle>
+                    <color>ffffffff</color>
+                    <width>5</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>996000e6</color>
+                </PolyStyle>
+            </Style>
+            
+            <StyleMap id="style-564">
+                <Pair>
+                    <key>normal</key>
+                    <styleUrl>#style-564-normal</styleUrl>
+                </Pair>
+                <Pair>
+                    <key>highlight</key>
+                    <styleUrl>#style-564-highlight</styleUrl>
+                </Pair>
+            </StyleMap>
+
+            <Style id="style-564-normal">
+                <LineStyle>
+                    <color>ffffffff</color>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>996000e6</color>
+                </PolyStyle>
+            </Style>
+            <Style id="style-564-highlight">
+                <LineStyle>
+                    <color>ffffffff</color>
+                    <width>5</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>996000e6</color>
+                </PolyStyle>
+            </Style>
+            
+            <StyleMap id="style-568">
+                <Pair>
+                    <key>normal</key>
+                    <styleUrl>#style-568-normal</styleUrl>
+                </Pair>
+                <Pair>
+                    <key>highlight</key>
+                    <styleUrl>#style-568-highlight</styleUrl>
+                </Pair>
+            </StyleMap>
+
+            <Style id="style-568-normal">
+                <LineStyle>
+                    <color>ffffffff</color>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>996000e6</color>
+                </PolyStyle>
+            </Style>
+            <Style id="style-568-highlight">
+                <LineStyle>
+                    <color>ffffffff</color>
+                    <width>5</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>996000e6</color>
+                </PolyStyle>
+            </Style>
+            
+            <StyleMap id="style-569">
+                <Pair>
+                    <key>normal</key>
+                    <styleUrl>#style-569-normal</styleUrl>
+                </Pair>
+                <Pair>
+                    <key>highlight</key>
+                    <styleUrl>#style-569-highlight</styleUrl>
+                </Pair>
+            </StyleMap>
+
+            <Style id="style-569-normal">
+                <LineStyle>
+                    <color>ffffffff</color>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>996000e6</color>
+                </PolyStyle>
+            </Style>
+            <Style id="style-569-highlight">
+                <LineStyle>
+                    <color>ffffffff</color>
+                    <width>5</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>996000e6</color>
+                </PolyStyle>
+            </Style>
+            
+            <StyleMap id="style-570">
+                <Pair>
+                    <key>normal</key>
+                    <styleUrl>#style-570-normal</styleUrl>
+                </Pair>
+                <Pair>
+                    <key>highlight</key>
+                    <styleUrl>#style-570-highlight</styleUrl>
+                </Pair>
+            </StyleMap>
+
+            <Style id="style-570-normal">
+                <LineStyle>
+                    <color>ffffffff</color>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>996000e6</color>
+                </PolyStyle>
+            </Style>
+            <Style id="style-570-highlight">
+                <LineStyle>
+                    <color>ffffffff</color>
+                    <width>5</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>996000e6</color>
+                </PolyStyle>
+            </Style>
+            
+            <StyleMap id="style-573">
+                <Pair>
+                    <key>normal</key>
+                    <styleUrl>#style-573-normal</styleUrl>
+                </Pair>
+                <Pair>
+                    <key>highlight</key>
+                    <styleUrl>#style-573-highlight</styleUrl>
+                </Pair>
+            </StyleMap>
+
+            <Style id="style-573-normal">
+                <LineStyle>
+                    <color>ffffffff</color>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>996000e6</color>
+                </PolyStyle>
+            </Style>
+            <Style id="style-573-highlight">
+                <LineStyle>
+                    <color>ffffffff</color>
+                    <width>5</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>996000e6</color>
+                </PolyStyle>
+            </Style>
+            
+            <StyleMap id="style-574">
+                <Pair>
+                    <key>normal</key>
+                    <styleUrl>#style-574-normal</styleUrl>
+                </Pair>
+                <Pair>
+                    <key>highlight</key>
+                    <styleUrl>#style-574-highlight</styleUrl>
+                </Pair>
+            </StyleMap>
+
+            <Style id="style-574-normal">
+                <LineStyle>
+                    <color>ffffffff</color>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>996000e6</color>
+                </PolyStyle>
+            </Style>
+            <Style id="style-574-highlight">
+                <LineStyle>
+                    <color>ffffffff</color>
+                    <width>5</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>996000e6</color>
+                </PolyStyle>
+            </Style>
+            
+            <StyleMap id="style-575">
+                <Pair>
+                    <key>normal</key>
+                    <styleUrl>#style-575-normal</styleUrl>
+                </Pair>
+                <Pair>
+                    <key>highlight</key>
+                    <styleUrl>#style-575-highlight</styleUrl>
+                </Pair>
+            </StyleMap>
+
+            <Style id="style-575-normal">
+                <LineStyle>
+                    <color>ffffffff</color>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>996000e6</color>
+                </PolyStyle>
+            </Style>
+            <Style id="style-575-highlight">
+                <LineStyle>
+                    <color>ffffffff</color>
+                    <width>5</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>996000e6</color>
+                </PolyStyle>
+            </Style>
+            
+            <StyleMap id="style-576">
+                <Pair>
+                    <key>normal</key>
+                    <styleUrl>#style-576-normal</styleUrl>
+                </Pair>
+                <Pair>
+                    <key>highlight</key>
+                    <styleUrl>#style-576-highlight</styleUrl>
+                </Pair>
+            </StyleMap>
+
+            <Style id="style-576-normal">
+                <LineStyle>
+                    <color>ffffffff</color>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>996000e6</color>
+                </PolyStyle>
+            </Style>
+            <Style id="style-576-highlight">
+                <LineStyle>
+                    <color>ffffffff</color>
+                    <width>5</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>996000e6</color>
+                </PolyStyle>
+            </Style>
+            
+            <StyleMap id="style-577">
+                <Pair>
+                    <key>normal</key>
+                    <styleUrl>#style-577-normal</styleUrl>
+                </Pair>
+                <Pair>
+                    <key>highlight</key>
+                    <styleUrl>#style-577-highlight</styleUrl>
+                </Pair>
+            </StyleMap>
+
+            <Style id="style-577-normal">
+                <LineStyle>
+                    <color>ffffffff</color>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>996000e6</color>
+                </PolyStyle>
+            </Style>
+            <Style id="style-577-highlight">
+                <LineStyle>
+                    <color>ffffffff</color>
+                    <width>5</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>996000e6</color>
+                </PolyStyle>
+            </Style>
+            
+            <StyleMap id="style-578">
+                <Pair>
+                    <key>normal</key>
+                    <styleUrl>#style-578-normal</styleUrl>
+                </Pair>
+                <Pair>
+                    <key>highlight</key>
+                    <styleUrl>#style-578-highlight</styleUrl>
+                </Pair>
+            </StyleMap>
+
+            <Style id="style-578-normal">
+                <LineStyle>
+                    <color>ffffffff</color>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>996000e6</color>
+                </PolyStyle>
+            </Style>
+            <Style id="style-578-highlight">
+                <LineStyle>
+                    <color>ffffffff</color>
+                    <width>5</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>996000e6</color>
+                </PolyStyle>
+            </Style>
+            
+            <StyleMap id="style-579">
+                <Pair>
+                    <key>normal</key>
+                    <styleUrl>#style-579-normal</styleUrl>
+                </Pair>
+                <Pair>
+                    <key>highlight</key>
+                    <styleUrl>#style-579-highlight</styleUrl>
+                </Pair>
+            </StyleMap>
+
+            <Style id="style-579-normal">
+                <LineStyle>
+                    <color>ffffffff</color>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>996000e6</color>
+                </PolyStyle>
+            </Style>
+            <Style id="style-579-highlight">
+                <LineStyle>
+                    <color>ffffffff</color>
+                    <width>5</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>996000e6</color>
+                </PolyStyle>
+            </Style>
+            
+            <StyleMap id="style-581">
+                <Pair>
+                    <key>normal</key>
+                    <styleUrl>#style-581-normal</styleUrl>
+                </Pair>
+                <Pair>
+                    <key>highlight</key>
+                    <styleUrl>#style-581-highlight</styleUrl>
+                </Pair>
+            </StyleMap>
+
+            <Style id="style-581-normal">
+                <LineStyle>
+                    <color>ffffffff</color>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>996000e6</color>
+                </PolyStyle>
+            </Style>
+            <Style id="style-581-highlight">
+                <LineStyle>
+                    <color>ffffffff</color>
+                    <width>5</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>996000e6</color>
+                </PolyStyle>
+            </Style>
+            
+            <StyleMap id="style-582">
+                <Pair>
+                    <key>normal</key>
+                    <styleUrl>#style-582-normal</styleUrl>
+                </Pair>
+                <Pair>
+                    <key>highlight</key>
+                    <styleUrl>#style-582-highlight</styleUrl>
+                </Pair>
+            </StyleMap>
+
+            <Style id="style-582-normal">
+                <LineStyle>
+                    <color>ffffffff</color>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>996000e6</color>
+                </PolyStyle>
+            </Style>
+            <Style id="style-582-highlight">
+                <LineStyle>
+                    <color>ffffffff</color>
+                    <width>5</width>
+                </LineStyle>
+                <PolyStyle>
+                    <color>996000e6</color>
+                </PolyStyle>
+            </Style>
+            <Schema name="OGRGeoJSON" id="OGRGeoJSON">
+                <SimpleField name="OBJECTID" type="int"></SimpleField>
+                <SimpleField name="ACTIVE" type="int"></SimpleField>
+                <SimpleField name="APG_PAV" type="string"></SimpleField>
+            </Schema>
+
+            <Folder>
+                <name>OGRGeoJSON</name>
+                <Placemark>
+                    <styleUrl>#style-562</styleUrl>
+                    <ExtendedData>
+                        <SchemaData schemaUrl="#OGRGeoJSON">
+                            <SimpleData name="OBJECTID">562</SimpleData>
+                            <SimpleData name="APL_PAV">Klaipėdos Vandens</SimpleData>
+                            <SimpleData name="ACTIVE">0</SimpleData>
+                        </SchemaData>
+                   </ExtendedData>
+                        <Polygon>
+                            <outerBoundaryIs>
+                                <LinearRing>
+                                    <coordinates>21.1670428415886,55.7004290814844 21.1670436056404,55.7004283980907 21.1670451279418,55.7004290461881 21.167302086682,55.7001990940778 21.1673021139218,55.7001990695413 21.1645075903887,55.698995711351 21.1645065235678,55.6989968173406 21.1638085915353,55.6997209452644 21.1630813154462,55.6995405595743 21.1624488838144,55.7002712795745 21.1606107096158,55.6997535859759 21.1575502321012,55.6999868741421 21.1564435529678,55.7011778895698 21.156438248711,55.7011764176169 21.1535702959907,55.7003803735773 21.1535669238965,55.7003841330786 21.1535671311637,55.7003841936097 21.1534702206248,55.7004921637103 21.1535553632881,55.7005146979051 21.1535407155875,55.7005323486853 21.1538017796218,55.7006014414868 21.1538170411841,55.7005830517507 21.1538871459084,55.7006016050222 21.1538816876693,55.7006081832027 21.1539053796041,55.7006144542169 21.1538708426374,55.70065607123 21.1538452519424,55.7006492978013 21.1537962486474,55.7007083469216 21.1537313372074,55.7006911678298 21.1537120824792,55.7007143712855 21.1534531149213,55.7006458329364 21.1534735192682,55.7006212451282 21.1533772323475,55.700595761466 21.1530009841052,55.7010149342672 21.1511092404372,55.7004734751006 21.1516611647183,55.6998504117224 21.1480734993241,55.6988693391578 21.1475319462884,55.6987250834691 21.1475277484385,55.6987239648903 21.1456324989407,55.7009591180256 21.1477906269296,55.7012859636895 21.1500938952826,55.7016367081147 21.1497145336178,55.7020675998091 21.1496352229008,55.7021576832735 21.1521346699942,55.7026973604939 21.1527311730601,55.7026189887895 21.1526019804127,55.7025177563712 21.1542267281156,55.7006895225543 21.155866654646,55.7011007980404 21.1551709112708,55.7019207900187 21.1553847732051,55.7019783252324 21.1546770061327,55.7027935421123 21.1550152414077,55.7028238224509 21.1550178537176,55.7028240564737 21.1572927736242,55.7030273545862 21.1620453779644,55.704251008262 21.1636842339064,55.7031782085881 21.1646473090342,55.7025171364727 21.1653651202738,55.7019303816675 21.1670428415886,55.7004290814844</coordinates>
+                                </LinearRing>
+                             </outerBoundaryIs>
+                        </Polygon>
+                </Placemark>
+                <Placemark>
+                    <styleUrl>#style-563</styleUrl>
+                    <ExtendedData>
+                        <SchemaData schemaUrl="#OGRGeoJSON">
+                            <SimpleData name="OBJECTID">563</SimpleData>
+                            <SimpleData name="APL_PAV">Rumpiškių</SimpleData>
+                            <SimpleData name="ACTIVE">0</SimpleData>
+                        </SchemaData>
+                   </ExtendedData>
+                        <Polygon>
+                            <outerBoundaryIs>
+                                <LinearRing>
+                                    <coordinates>21.1535669238965,55.7003841330786 21.1530273507597,55.7002258923614 21.1553019737606,55.6977399968858 21.1531761541487,55.6971103649501 21.1530633786576,55.6961776177114 21.1511808906331,55.6956192946516 21.1515463764283,55.6951868456337 21.1506862820171,55.6949136045401 21.1475306781852,55.6987208873155 21.1475319462884,55.6987250834691 21.1480734993241,55.6988693391578 21.1516611647183,55.6998504117224 21.1511092404372,55.7004734751006 21.1530009841052,55.7010149342672 21.1533772323475,55.700595761466 21.1534735192682,55.7006212451282 21.1534531149213,55.7006458329364 21.1537120824792,55.7007143712855 21.1537313372074,55.7006911678298 21.1537962486474,55.7007083469216 21.1538452519424,55.7006492978013 21.1538708426374,55.70065607123 21.1539053796041,55.7006144542169 21.1538816876693,55.7006081832027 21.1538871459084,55.7006016050222 21.1538170411841,55.7005830517507 21.1538017796218,55.7006014414868 21.1535407155875,55.7005323486853 21.1535553632881,55.7005146979051 21.1534702206248,55.7004921637103 21.1535671311637,55.7003841936097 21.1535669238965,55.7003841330786</coordinates>
+                                </LinearRing>
+                             </outerBoundaryIs>
+                        </Polygon>
+                </Placemark>
+                <Placemark>
+                    <styleUrl>#style-564</styleUrl>
+                    <ExtendedData>
+                        <SchemaData schemaUrl="#OGRGeoJSON">
+                            <SimpleData name="OBJECTID">564</SimpleData>
+                            <SimpleData name="APL_PAV">Aitvaro</SimpleData>
+                            <SimpleData name="ACTIVE">0</SimpleData>
+                        </SchemaData>
+                   </ExtendedData>
+                        <Polygon>
+                            <outerBoundaryIs>
+                                <LinearRing>
+                                    <coordinates>21.1645065235678,55.6989968173406 21.1645060471126,55.6989950465583 21.1610061750457,55.6975489065906 21.158507036099,55.6963941217093 21.1538506846106,55.6943798393702 21.1530878356275,55.6941194761058 21.1522081447897,55.6938679831138 21.1516554697702,55.6937138762572 21.1508588577655,55.6946995346211 21.1506862820171,55.6949136045401 21.1515463764283,55.6951868456337 21.1511808906331,55.6956192946516 21.1530633786576,55.6961776177114 21.1531761541487,55.6971103649501 21.1553019737606,55.6977399968858 21.1530273507597,55.7002258923614 21.1535669238965,55.7003841330786 21.1535702959907,55.7003803735773 21.156438248711,55.7011764176169 21.1564435529678,55.7011778895698 21.1575502321012,55.6999868741421 21.1606107096158,55.6997535859759 21.1624488838144,55.7002712795745 21.1630813154462,55.6995405595743 21.1638085915353,55.6997209452644 21.1645065235678,55.6989968173406</coordinates>
+                                </LinearRing>
+                             </outerBoundaryIs>
+                        </Polygon>
+                </Placemark>
+                <Placemark>
+                    <styleUrl>#style-568</styleUrl>
+                    <ExtendedData>
+                        <SchemaData schemaUrl="#OGRGeoJSON">
+                            <SimpleData name="OBJECTID">568</SimpleData>
+                            <SimpleData name="APL_PAV">Brigantinos</SimpleData>
+                            <SimpleData name="ACTIVE">0</SimpleData>
+                        </SchemaData>
+                   </ExtendedData>
+                        <Polygon>
+                            <outerBoundaryIs>
+                                <LinearRing>
+                                    <coordinates>21.1744643975484,55.7035872532949 21.1753087683299,55.7027749879772 21.184084988216,55.6943300854185 21.178863426243,55.6928582364269 21.1794810888283,55.6921166712715 21.1849463167842,55.6935712570136 21.1899467973565,55.6892488076985 21.1899352308846,55.6892456110622 21.1870755565154,55.6884552120692 21.1861728464338,55.6894156844912 21.1814952306971,55.6885818578933 21.1798254700045,55.688120174868 21.1799930278106,55.6879209968546 21.1793095199113,55.6877159169978 21.1791475677882,55.687885833623 21.1781426808975,55.6875771009931 21.1779243503993,55.6877963194606 21.1772983327487,55.6876038748998 21.1759513174872,55.689030214622 21.1757464567417,55.6889687857938 21.1755975595409,55.6889241376819 21.1754296087651,55.6888737750427 21.1733626645323,55.6908930504759 21.1660698373972,55.6887201737987 21.1657081162645,55.6886123821959 21.1646088339549,55.6897618444133 21.1661918180525,55.6901110943012 21.1661849135468,55.6901867003811 21.1683409379256,55.6906141360148 21.1684818234912,55.6903711270226 21.1713676923105,55.6912085566865 21.1709629926969,55.6917094520562 21.1730790410196,55.6921458571271 21.1732943539127,55.6921880908744 21.1736584501488,55.6922595062809 21.1734030553315,55.6926650218377 21.1735671637208,55.6926976514278 21.1743923965699,55.692861007411 21.1742301135462,55.6931239587858 21.1741162053702,55.693276504327 21.171054212611,55.692687402943 21.1709380054071,55.6928170462105 21.1708147167314,55.6929971945502 21.1710882709781,55.6930518513227 21.1709956450039,55.6931952249099 21.1707172240132,55.6931396432465 21.1698112879482,55.6944632949654 21.1696563250821,55.6946896233104 21.1679044463409,55.6943561159027 21.1681987658558,55.6938840493488 21.1667866756498,55.6936052819719 21.1652382722278,55.6962924048457 21.1649135542184,55.6962496624443 21.1649117549605,55.6962367146711 21.1641666069085,55.696249137282 21.1641833849341,55.6966048860621 21.1642985070371,55.6969740611379 21.1644847881557,55.6975076729046 21.1647526039054,55.6974171275834 21.1652990855525,55.6978389586241 21.1652513904665,55.6978565510352 21.1660807843162,55.6986394142837 21.1662248220499,55.6987365055612 21.166349943324,55.6988030630705 21.166940529916,55.6990764679479 21.1679173641833,55.6996253027797 21.1676266260402,55.699896486255 21.1673021510796,55.7001990838805 21.167302086682,55.7001990940778 21.1670451279418,55.7004290461881 21.1670436056404,55.7004283980907 21.1670428415886,55.7004290814844 21.1670453826962,55.7004291545279 21.17446202042,55.7035874412279 21.1744643975484,55.7035872532949</coordinates>
+                                </LinearRing>
+                             </outerBoundaryIs>
+                        </Polygon>
+                </Placemark>
+                <Placemark>
+                    <styleUrl>#style-569</styleUrl>
+                    <ExtendedData>
+                        <SchemaData schemaUrl="#OGRGeoJSON">
+                            <SimpleData name="OBJECTID">569</SimpleData>
+                            <SimpleData name="APL_PAV">Olimpijos</SimpleData>
+                            <SimpleData name="ACTIVE">0</SimpleData>
+                        </SchemaData>
+                   </ExtendedData>
+                        <Polygon>
+                            <outerBoundaryIs>
+                                <LinearRing>
+                                    <coordinates>21.1646088339549,55.6897618444133 21.1657081162645,55.6886123821959 21.1656968143983,55.6886090096064 21.1656665827453,55.6885999869099 21.1620237895163,55.687512784259 21.1633659206241,55.6860877370217 21.1630860023643,55.6859987585247 21.1637482627444,55.6853161811523 21.1633245464789,55.6851765140294 21.162285244844,55.6861443543103 21.1612616988034,55.6858452055069 21.1621418218364,55.6849996084914 21.1612814373565,55.6847135706183 21.1608499916468,55.6845701307346 21.1615530300029,55.6839001924941 21.1590780650596,55.683199528036 21.1590779403524,55.6831994927928 21.1590779985798,55.6831994357215 21.1581162237944,55.6829266384647 21.1567145365351,55.6825290447216 21.1563763326204,55.6828863229255 21.1561271813923,55.6831495237149 21.1548176274867,55.6845328442072 21.1540318265925,55.6843084417877 21.1539019594057,55.6844526181336 21.1539132881938,55.6844557875458 21.1539162162706,55.6844566068389 21.153891502757,55.6844847275056 21.1538324933516,55.6845336876264 21.153829652709,55.6845328910313 21.153407807564,55.6850012030806 21.1561080209332,55.685763566404 21.156517841261,55.6858792649923 21.1587683806565,55.6865145904155 21.1556082596523,55.6895593610771 21.160227325624,55.690497351558 21.1614390928976,55.6890403663802 21.1618747013149,55.6891525428489 21.1620458900976,55.6889704588056 21.1634246844397,55.6894871169499 21.1633818771431,55.6895594752409 21.1632512078243,55.6897808741423 21.1637965425751,55.689897100241 21.1639416298255,55.6896718898689 21.1646088339549,55.6897618444133</coordinates>
+                                </LinearRing>
+                             </outerBoundaryIs>
+                        </Polygon>
+                </Placemark>
+                <Placemark>
+                    <styleUrl>#style-570</styleUrl>
+                    <ExtendedData>
+                        <SchemaData schemaUrl="#OGRGeoJSON">
+                            <SimpleData name="OBJECTID">570</SimpleData>
+                            <SimpleData name="APL_PAV">Draugystės</SimpleData>
+                            <SimpleData name="ACTIVE">0</SimpleData>
+                        </SchemaData>
+                   </ExtendedData>
+                        <Polygon>
+                            <outerBoundaryIs>
+                                <LinearRing>
+                                    <coordinates>21.1899352308846,55.6892456110622 21.1899645791768,55.689234081717 21.1912620572273,55.6881277172084 21.1834644794278,55.6858937808263 21.1815616388971,55.685400435676 21.1811607877736,55.6852916254943 21.17924578805,55.6847717744807 21.1792437829896,55.6847712304703 21.1780990609152,55.6860167527403 21.178555940104,55.6861827452533 21.1774796301907,55.6873554947051 21.16809895244,55.6844546469157 21.167224469658,55.6841928717688 21.1664847658281,55.6849794627008 21.1668922481329,55.6851017573326 21.1660168915824,55.6860257794233 21.1670917014439,55.6863777504599 21.1665838264986,55.6869062716258 21.1670934837636,55.6870721744044 21.1670888661076,55.6870771098338 21.1659241593595,55.688324239028 21.1657548750064,55.6885054950448 21.1656684142301,55.6885980717165 21.1656665827453,55.6885999869099 21.1656968143983,55.6886090096064 21.1657081162645,55.6886123821959 21.1660698373972,55.6887201737987 21.1733626645323,55.6908930504759 21.1754296087651,55.6888737750427 21.1755975595409,55.6889241376819 21.1757464567417,55.6889687857938 21.1759513174872,55.689030214622 21.1772983327487,55.6876038748998 21.1779243503993,55.6877963194606 21.1781426808975,55.6875771009931 21.1791475677882,55.687885833623 21.1793095199113,55.6877159169978 21.1799930278106,55.6879209968546 21.1798254700045,55.688120174868 21.1814952306971,55.6885818578933 21.1861728464338,55.6894156844912 21.1870755565154,55.6884552120692 21.1899352308846,55.6892456110622</coordinates>
+                                </LinearRing>
+                             </outerBoundaryIs>
+                        </Polygon>
+                </Placemark>
+                <Placemark>
+                    <styleUrl>#style-573</styleUrl>
+                    <ExtendedData>
+                        <SchemaData schemaUrl="#OGRGeoJSON">
+                            <SimpleData name="OBJECTID">573</SimpleData>
+                            <SimpleData name="APL_PAV">Dainavos</SimpleData>
+                            <SimpleData name="ACTIVE">0</SimpleData>
+                        </SchemaData>
+                   </ExtendedData>
+                        <Polygon>
+                            <outerBoundaryIs>
+                                <LinearRing>
+                                    <coordinates>21.16809895244,55.6844546469157 21.1690281858992,55.6833893105603 21.1699973980229,55.6837027798018 21.1704661161062,55.6832769729651 21.1706519846247,55.6833399486122 21.1718293985942,55.6822327242063 21.1718293072284,55.6822326897447 21.1714545884595,55.6820927313149 21.1700206489682,55.6816970126713 21.1683677632073,55.6813531196571 21.1675280999886,55.6811784143432 21.1658756050162,55.6827991969952 21.1661501563511,55.6829137499799 21.1638695822772,55.6851948423731 21.1637482627444,55.6853161811523 21.1630860023643,55.6859987585247 21.1633659206241,55.6860877370217 21.1620237895163,55.687512784259 21.1656665827453,55.6885999869099 21.1656684142301,55.6885980717165 21.1657548750064,55.6885054950448 21.1659241593595,55.688324239028 21.1670888661076,55.6870771098338 21.1670934837636,55.6870721744044 21.1665838264986,55.6869062716258 21.1670917014439,55.6863777504599 21.1660168915824,55.6860257794233 21.1668922481329,55.6851017573326 21.1664847658281,55.6849794627008 21.167224469658,55.6841928717688 21.16809895244,55.6844546469157</coordinates>
+                                </LinearRing>
+                             </outerBoundaryIs>
+                        </Polygon>
+                </Placemark>
+                <Placemark>
+                    <styleUrl>#style-574</styleUrl>
+                    <ExtendedData>
+                        <SchemaData schemaUrl="#OGRGeoJSON">
+                            <SimpleData name="OBJECTID">574</SimpleData>
+                            <SimpleData name="APL_PAV">Švyturio</SimpleData>
+                            <SimpleData name="ACTIVE">0</SimpleData>
+                        </SchemaData>
+                   </ExtendedData>
+                        <Polygon>
+                            <outerBoundaryIs>
+                                <LinearRing>
+                                    <coordinates>21.17924578805,55.6847717744807 21.179244742633,55.6847701875055 21.1789449791813,55.6846889958252 21.1771528879623,55.6842035818127 21.1761764757945,55.6838809268345 21.1745157558693,55.6832468142842 21.1732272518032,55.6827548109879 21.1718294429954,55.6822326820893 21.1718293072284,55.6822326897447 21.1718293985942,55.6822327242063 21.1706519846247,55.6833399486122 21.1704661161062,55.6832769729651 21.1699973980229,55.6837027798018 21.1690281858992,55.6833893105603 21.16809895244,55.6844546469157 21.1774796301907,55.6873554947051 21.178555940104,55.6861827452533 21.1780990609152,55.6860167527403 21.1792437829896,55.6847712304703 21.17924578805,55.6847717744807</coordinates>
+                                </LinearRing>
+                             </outerBoundaryIs>
+                        </Polygon>
+                </Placemark>
+                <Placemark>
+                    <styleUrl>#style-575</styleUrl>
+                    <ExtendedData>
+                        <SchemaData schemaUrl="#OGRGeoJSON">
+                            <SimpleData name="OBJECTID">575</SimpleData>
+                            <SimpleData name="APL_PAV">Debreceno</SimpleData>
+                            <SimpleData name="ACTIVE">0</SimpleData>
+                        </SchemaData>
+                   </ExtendedData>
+                        <Polygon>
+                            <outerBoundaryIs>
+                                <LinearRing>
+                                    <coordinates>21.1867479602692,55.6807891338287 21.1861164304197,55.681794649039 21.1838193362358,55.6812736890937 21.18431211376,55.6802474146067 21.1843499817827,55.6801685486991 21.1843714151987,55.6801239086358 21.1824324312701,55.6796568862965 21.182432706059,55.6796563389729 21.1824330441355,55.6796556636817 21.1792476655881,55.6790674616326 21.1788761584061,55.6819345793021 21.1760278255577,55.6813471392886 21.1751503082794,55.6826575421132 21.1746489182641,55.6825564881332 21.1747568370832,55.6823725706916 21.1736239104214,55.6821012941887 21.1744481973456,55.6808759485956 21.1747131354362,55.680925460317 21.1749813228002,55.6805351933837 21.1700785911791,55.6796425235824 21.1689562837718,55.6794348999919 21.1688633395527,55.6795962397929 21.1699666660639,55.679811245542 21.1691606951312,55.6810258406128 21.1686809769365,55.680924085346 21.1683677632073,55.6813531196571 21.1700206489682,55.6816970126713 21.1714545884595,55.6820927313149 21.1718293072284,55.6822326897447 21.1718294429954,55.6822326820893 21.1732272518032,55.6827548109879 21.1745157558693,55.6832468142842 21.1761764757945,55.6838809268345 21.1771528879623,55.6842035818127 21.1789449791813,55.6846889958252 21.179244742633,55.6847701875055 21.17924578805,55.6847717744807 21.1811607877736,55.6852916254943 21.1815616388971,55.685400435676 21.1834644794278,55.6858937808263 21.1912620572273,55.6881277172084 21.1954470363231,55.6851509805999 21.1923593797047,55.6839122815322 21.1913220735832,55.6834961024119 21.1921496943708,55.6820194290086 21.1867479602692,55.6807891338287</coordinates>
+                                </LinearRing>
+                             </outerBoundaryIs>
+                        </Polygon>
+                </Placemark>
+                <Placemark>
+                    <styleUrl>#style-576</styleUrl>
+                    <ExtendedData>
+                        <SchemaData schemaUrl="#OGRGeoJSON">
+                            <SimpleData name="OBJECTID">576</SimpleData>
+                            <SimpleData name="APL_PAV">Nykštuko</SimpleData>
+                            <SimpleData name="ACTIVE">0</SimpleData>
+                        </SchemaData>
+                   </ExtendedData>
+                        <Polygon>
+                            <outerBoundaryIs>
+                                <LinearRing>
+                                    <coordinates>21.1700785911791,55.6796425235824 21.170966698638,55.6780254645905 21.1689406065163,55.6776448345432 21.1687185644849,55.6780100898187 21.167833158872,55.6778462996589 21.1682754852383,55.6771214133784 21.1696684967385,55.6774064719125 21.1696693855824,55.6774051110234 21.1708476865352,55.6755992107096 21.1719773784503,55.6758287385638 21.1725500903912,55.6749983632468 21.1720854036998,55.6748941807253 21.1729037222132,55.6736551502955 21.1716967059036,55.6734291366293 21.1704691369043,55.6731993248881 21.1704589267425,55.6732019654129 21.1704191532211,55.6732518315969 21.1703684329026,55.6732984173294 21.1703075985558,55.6733409598846 21.1702376436178,55.6733787622564 21.1701597181769,55.673411204751 21.1700750963749,55.6734377559198 21.1699851662958,55.6734579804158 21.1698914008007,55.6734715464117 21.1697953363653,55.6734782323014 21.1696985490656,55.6734779288439 21.1696026226887,55.6734706402247 21.1695091294818,55.6734564863084 21.1694845808081,55.6734517217487 21.1691840623953,55.6739294965955 21.1689840333812,55.674220554227 21.1648836039805,55.6806280553683 21.1671353110722,55.6810966765642 21.1675280999886,55.6811784143432 21.1683677632073,55.6813531196571 21.1686809769365,55.680924085346 21.1691606951312,55.6810258406128 21.1699666660639,55.679811245542 21.1688633395527,55.6795962397929 21.1689562837718,55.6794348999919 21.1700785911791,55.6796425235824</coordinates>
+                                </LinearRing>
+                             </outerBoundaryIs>
+                        </Polygon>
+                </Placemark>
+                <Placemark>
+                    <styleUrl>#style-577</styleUrl>
+                    <ExtendedData>
+                        <SchemaData schemaUrl="#OGRGeoJSON">
+                            <SimpleData name="OBJECTID">577</SimpleData>
+                            <SimpleData name="APL_PAV">Gedminų</SimpleData>
+                            <SimpleData name="ACTIVE">0</SimpleData>
+                        </SchemaData>
+                   </ExtendedData>
+                        <Polygon>
+                            <outerBoundaryIs>
+                                <LinearRing>
+                                    <coordinates>21.1792476655881,55.6790674616326 21.1795250960276,55.6769260698237 21.1802476221993,55.6759574667438 21.1796294855014,55.6758274904576 21.1798614651907,55.6754750278025 21.1784007369432,55.675179629846 21.1780795831554,55.6751450443031 21.1774292381586,55.6761337825712 21.1771477301375,55.6766831877922 21.1771009277299,55.6789172351373 21.1707067977966,55.6776175574368 21.1703561659644,55.6775462756909 21.1696693855824,55.6774051110234 21.1696684967385,55.6774064719125 21.1682754852383,55.6771214133784 21.167833158872,55.6778462996589 21.1687185644849,55.6780100898187 21.1689406065163,55.6776448345432 21.170966698638,55.6780254645905 21.1700785911791,55.6796425235824 21.1749813228002,55.6805351933837 21.1747131354362,55.680925460317 21.1744481973456,55.6808759485956 21.1736239104214,55.6821012941887 21.1747568370832,55.6823725706916 21.1746489182641,55.6825564881332 21.1751503082794,55.6826575421132 21.1760278255577,55.6813471392886 21.1788761584061,55.6819345793021 21.1792476655881,55.6790674616326</coordinates>
+                                </LinearRing>
+                             </outerBoundaryIs>
+                        </Polygon>
+                </Placemark>
+                <Placemark>
+                    <styleUrl>#style-578</styleUrl>
+                    <ExtendedData>
+                        <SchemaData schemaUrl="#OGRGeoJSON">
+                            <SimpleData name="OBJECTID">578</SimpleData>
+                            <SimpleData name="APL_PAV">Vėtrungės</SimpleData>
+                            <SimpleData name="ACTIVE">0</SimpleData>
+                        </SchemaData>
+                   </ExtendedData>
+                        <Polygon>
+                            <outerBoundaryIs>
+                                <LinearRing>
+                                    <coordinates>21.1771477301375,55.6766831877922 21.1719773784503,55.6758287385638 21.1708476865352,55.6755992107096 21.1696693855824,55.6774051110234 21.1703561659644,55.6775462756909 21.1707067977966,55.6776175574368 21.1771009277299,55.6789172351373 21.1771477301375,55.6766831877922</coordinates>
+                                </LinearRing>
+                             </outerBoundaryIs>
+                        </Polygon>
+                </Placemark>
+                <Placemark>
+                    <styleUrl>#style-579</styleUrl>
+                    <ExtendedData>
+                        <SchemaData schemaUrl="#OGRGeoJSON">
+                            <SimpleData name="OBJECTID">579</SimpleData>
+                            <SimpleData name="APL_PAV">Menų mokyklos</SimpleData>
+                            <SimpleData name="ACTIVE">0</SimpleData>
+                        </SchemaData>
+                   </ExtendedData>
+                        <Polygon>
+                            <outerBoundaryIs>
+                                <LinearRing>
+                                    <coordinates>21.1842105264266,55.6761069056744 21.1825525753452,55.6794179040512 21.1824334679955,55.6796557417219 21.182432706059,55.6796563389729 21.1824324312701,55.6796568862965 21.1843714151987,55.6801239086358 21.1844352338882,55.6800154023081 21.1846504974072,55.6796514557987 21.1860898915528,55.6799611166444 21.1863230211755,55.6796143308972 21.1856651217992,55.679461730477 21.1861151391726,55.6786734927461 21.1861158396977,55.6786722658337 21.1866827022629,55.6788121710191 21.1871992426864,55.6780603421349 21.1875589043489,55.6781519135209 21.1875619191277,55.6781473414584 21.1882260760314,55.6771401263197 21.1861600902577,55.676588345022 21.1842105264266,55.6761069056744</coordinates>
+                                </LinearRing>
+                             </outerBoundaryIs>
+                        </Polygon>
+                </Placemark>
+                <Placemark>
+                    <styleUrl>#style-581</styleUrl>
+                    <ExtendedData>
+                        <SchemaData schemaUrl="#OGRGeoJSON">
+                            <SimpleData name="OBJECTID">581</SimpleData>
+                            <SimpleData name="APL_PAV">Žilvičio</SimpleData>
+                            <SimpleData name="ACTIVE">0</SimpleData>
+                        </SchemaData>
+                   </ExtendedData>
+                        <Polygon>
+                            <outerBoundaryIs>
+                                <LinearRing>
+                                    <coordinates>21.1842105264266,55.6761069056744 21.1817566763315,55.6754970146609 21.1817159000033,55.6754869078481 21.1807733877211,55.6752526048128 21.1783980213318,55.6746608934609 21.1735204253674,55.6737706383775 21.1729037222132,55.6736551502955 21.1720854036998,55.6748941807253 21.1725500903912,55.6749983632468 21.1719773784503,55.6758287385638 21.1771477301375,55.6766831877922 21.1774292381586,55.6761337825712 21.1780795831554,55.6751450443031 21.1784007369432,55.675179629846 21.1798614651907,55.6754750278025 21.1796294855014,55.6758274904576 21.1802476221993,55.6759574667438 21.1795250960276,55.6769260698237 21.1792476655881,55.6790674616326 21.1824330441355,55.6796556636817 21.182432706059,55.6796563389729 21.1824334679955,55.6796557417219 21.1825525753452,55.6794179040512 21.1842105264266,55.6761069056744</coordinates>
+                                </LinearRing>
+                             </outerBoundaryIs>
+                        </Polygon>
+                </Placemark>
+                <Placemark>
+                    <styleUrl>#style-582</styleUrl>
+                    <ExtendedData>
+                        <SchemaData schemaUrl="#OGRGeoJSON">
+                            <SimpleData name="OBJECTID">582</SimpleData>
+                            <SimpleData name="APL_PAV">Aušros</SimpleData>
+                            <SimpleData name="ACTIVE">0</SimpleData>
+                        </SchemaData>
+                   </ExtendedData>
+                        <Polygon>
+                            <outerBoundaryIs>
+                                <LinearRing>
+                                    <coordinates>21.1637482627444,55.6853161811523 21.1638695822772,55.6851948423731 21.1661501563511,55.6829137499799 21.1658756050162,55.6827991969952 21.1675280999886,55.6811784143432 21.1671353110722,55.6810966765642 21.1648836039805,55.6806280553683 21.1689840333812,55.674220554227 21.1673497117701,55.6738929590176 21.1658578366013,55.6735989651756 21.1655286202393,55.6740803754478 21.1661057161477,55.6742176481263 21.1657109625569,55.6753850084741 21.165022409901,55.6764689139114 21.1646634060229,55.6763967148141 21.1639334269715,55.6775172379774 21.1637805143075,55.6777519522736 21.1627597457906,55.6793649960428 21.1644906136887,55.6797286694912 21.1640651900626,55.6804699210288 21.1622841275388,55.6801180033349 21.1622840970042,55.6801180295915 21.1620276332162,55.6806088470602 21.1607767432764,55.6816439463157 21.1600086302064,55.682279482411 21.1590795270862,55.6831979261411 21.1590780650596,55.683199528036 21.1615530300029,55.6839001924941 21.1608499916468,55.6845701307346 21.1612814373565,55.6847135706183 21.1621418218364,55.6849996084914 21.1612616988034,55.6858452055069 21.162285244844,55.6861443543103 21.1633245464789,55.6851765140294 21.1637482627444,55.6853161811523</coordinates>
+                                </LinearRing>
+                             </outerBoundaryIs>
+                        </Polygon>
+                </Placemark>
+            </Folder>
+        </Document>
+    </kml>
