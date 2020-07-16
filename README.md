@@ -23,11 +23,11 @@ Laravel 6.2 + backpack + backpack/permissionmanager
 
 7. Paleidžiam `php artisan db:seed`
 
-8. Importuojam `storage/db/map_data.sql`
+8. Importuojam `https://drive.google.com/file/d/1jvFHnDGd2dnhAaHCl-_pkIKqcIzeoAcZ/view?usp=sharing` failą, kad nereiktu `kml:parse` valandą
 
-9. Susitvarkom apache ar nginx su hostais
+9. Susitvarkom apache ar nginx ir hostą
 
-10. Einam naršyklėje adresu `/admin/` ir susikuriam useri.
+10. Einam naršyklėje adresu `HOSTAS/admin/` ir susikuriam useri.
 ***
 
 
@@ -38,7 +38,7 @@ Laravel 6.2 + backpack + backpack/permissionmanager
 
 ```npm run prod``` - subuildinti iš app.scss į app.css
 
-```php artisan kml:parse``` - nuripinti duomenis į db iš .kml failo (nereik, jeigu importinama .sql)
+```php artisan kml:parse``` - nuripinti duomenis į db iš `storage/maps/` .kml failų (nereik, jeigu importinama map_data.sql)
 
 ```php artisan kml:generate``` - generuoti žemėlapio .kml failą
 
