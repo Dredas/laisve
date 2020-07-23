@@ -195,7 +195,7 @@ window.onload = () => {
             evt.preventDefault();
             console.log(districtsMap.getEventCoordinate(evt));
 
-        })
+        });
 
         districtsMap.on('click', function (e) {
             districtsMap.forEachFeatureAtPixel(e.pixel, function (feature, layer) {

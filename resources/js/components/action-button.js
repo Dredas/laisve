@@ -1,4 +1,5 @@
 import * as $ from 'jquery'
+import 'bootstrap'
 
 $(document).ready(function () {
 
@@ -16,5 +17,10 @@ $(document).ready(function () {
             btn.css('background-color', '#d32f2f');
         }
 
+    });
+
+
+    $('.county-info').click(function () {
+        $('#info-modal').modal("show");
     });
 });

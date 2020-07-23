@@ -9,12 +9,13 @@
     "license": "MIT",
     "require": {
         "php": "^7.2",
-        "backpack/crud":"4.0.*",
+        "backpack/crud": "4.0.*",
         "backpack/permissionmanager": "^5.0",
         "fideloper/proxy": "^4.0",
         "laravel/framework": "^6.2",
         "laravel/tinker": "^2.0",
-        "orchestra/parser": "^4.0"
+        "orchestra/parser": "^4.0",
+        "parsecsv/php-parsecsv": "^1.2"
     },
     "require-dev": {
         "backpack/generators": "^2.0",
