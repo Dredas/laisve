@@ -7,4 +7,9 @@ use Illuminate\Database\Eloquent\Model;
 class Party extends Model
 {
     protected $guarded = ['id'];
+
+    public function votes()
+    {
+        return $this->hasMany('App\Votes', 'party');
+    }
 }
